@@ -1,4 +1,4 @@
-# Data-Mining-Project
+# Data Mining Project
 
 Project in Data Mining course of the Master in Data Science with specialization in Business Analytics at NOVA IMS.
 
